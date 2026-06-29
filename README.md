@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="Banner.png" width="100%" alt="GitHub Banner">
+</p>
 <!--
 **ShelerMandomi/ShelerMandomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
